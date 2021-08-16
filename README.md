@@ -9,4 +9,4 @@ Welcome to my portfolio!
 - **House**: Swing by and meet Tech Topiary's architect, Andrea
 - **Visitor Checklist**: Visit destinations, collect stamps, and get souvenir at the end!
 - **Billboards**: Glimpses of highlights along the way
-And more to come!
+- And more to come! 🎇🎠
