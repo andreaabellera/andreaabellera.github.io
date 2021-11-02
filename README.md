@@ -17,7 +17,7 @@ Getting your resume online gives a double-edged advantage. It allows you to exhi
 
 ---
 ## Purpose
-This README will teach you how to host your resume online through Github Pages. Andrew Etter suggests in his book, Modern Technical Writing, that documentation must be built and hosted in a website, not distributed as PDFs. Furthermore, the following shows the benefits of hosting your resume online based on Etter's principles.
+This README will teach you how to host your resume online through Github Pages. Andrew Etter suggests in his book, _Modern Technical Writing_, that documentation must be built and hosted in a website, not distributed as PDFs. Furthermore, the following shows the benefits of hosting your resume online based on Etter's principles.
 
 ### Why host a resume in Github Pages?
 - Etter states that "even the best documentation, like software, eventually goes out of date." Integrating Git allows effective version control so that and eliminates the need of keeping multiple .pdf versions in a hard drive that take up space.
@@ -72,17 +72,17 @@ Create a free Github account [here](https://github.com/signup).
 ![Create index.md](assets/new-file.png)
 3. Re-write your resume in Markdown syntax on the editor provided.  
 ![Add front matter](assets/add-front-matter.png)
-4. Save your changes through the commit section at the bottom of the page. This adds index.md into your repository.  
+4. Save your changes through the commit section at the bottom of the page. This adds a new index.md file into your repository.  
 ![Commit file](assets/commit.png)
 
 ---
 ### Viewing your Github Pages Site 
-1. There are three ways to your new Github Pages site:
-  - Enter _your-username_.github.io into your browser's address bar.
-  - Click on the Github Pages link provided in your repository's **Pages** setting.  
-  ![Clicking Github Pages link](assets/GH-link.png)
-  - Click on the **github-pages** under the **Environments** section, located to the right of your repository file list.  
-    - 1.3.1 Select the **View deployment** button beside your site's topmost build.
+1. There are three ways to view your new Github Pages site:
+    - Enter _your-username_.github.io into your browser's address bar.
+    - Click on the Github Pages link provided in your repository's **Pages** setting.  
+    ![Clicking Github Pages link](assets/GH-link.png)
+    - Click on the **github-pages** under the **Environments** section, located to the right of your repository file list.  
+      - Select the **View deployment** button beside your site's topmost build.
 2. Voila! Your resume is now hosted in a live Github Pages site.  
 ![My Online Resume](assets/resume-andrea.gif)
 
@@ -105,7 +105,7 @@ Create a free Github account [here](https://github.com/signup).
 - [Megan Galbraith](https://github.com/galbrame)
 - [Andrii Provozin](https://github.com/developik)
 - [Matthew Kwiatkowski](https://github.com/Speuce)
-- Ian Tobinpe
+- [Ian Tobinpe](https://github.com/itobinpe)
 
 ---
 ## FAQ

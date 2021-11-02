@@ -85,19 +85,19 @@ June - July 2020
 ### VOLUNTEERING
 ---
 
-**Asper MISA Co-President**
+**Asper MISA Co-President**  
 Sept 2021 - Present  
 
 - Revivifies MISA community in Discord, increasing new membership by 55%.
 - Creates content for social media increasing the Instagram monthly follower growth rate from -1% to 6.5%
  
-**Bisons’ Programming Team Lead**
+**Bisons’ Programming Team Lead**  
 Sept 2021 - Present
 
 - Arranges schedules and manage team logistics for group of 50+ members, sending 5 teams to international programming competition IEEExtreme 
 - Researches and prepares HackerRank challenges
 
-**MIS/CS Help Centre Lead**
+**MIS/CS Help Centre Lead**  
 Oct 2021 - Present
 
 - Organizes Help Centre system in Discord, overseeing ticket system and managing volunteer schedules
@@ -107,19 +107,19 @@ May 2021 - Present
 
 - Creates content for social media, ensuing 56% more post engagement and a 13% monthly increase in Instagram followers
 
-**CUSEC Graphic Designer**
+**CUSEC Graphic Designer**  
 May 2021 - Present  
 
 - Establishes brand design for Canada’s largest student SWE conference
 - Publishes documents and graphic assets collaborating with web development and sponsorship teams
 
-**WICS Web & Outreach Volunteer**
+**WICS Web & Outreach Volunteer**  
 Sept 2020 - Present
 
 - Develops pages and components for the WICS site on a Next.js framework
 - Speaks and in virtual high school visits to provide advice to incoming generations of women technologists on CS career paths
 
-**CyberPatriot IX Team Leader**
+**CyberPatriot IX Team Leader**  
 Sept 2016 - January 2017
 
 - Conducted training sessions on securing Windows 7, 8, 8.1, 10, Ubuntu, and Cisco to peers of no technical background
