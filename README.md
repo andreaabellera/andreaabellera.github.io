@@ -68,18 +68,18 @@ Create a free Github account [here](https://github.com/signup).
 2. From the dropdown, select **Create new file**.  
 ![Create index.md](assets/new-file.png)
 3. Re-write your resume in Markdown syntax on the editor provided.  
-![Add front matter](assets/front-matter.png)
+![Add front matter](assets/add-front-matter.png)
 4. Save your changes through the commit section at the bottom of the page. This adds index.md into your repository.  
 ![Commit file](assets/commit.png)
 
 ### Viewing your Github Pages Site 
 1. There are three ways to your new Github Pages site:
-  1.1. Enter _your-username_.github.io into your browser's address bar.
-  1.2. Click on the Github Pages link provided in your repository's **Pages** setting.  
+  1.1 Enter _your-username_.github.io into your browser's address bar.
+  1.2 Click on the Github Pages link provided in your repository's **Pages** setting.  
   ![Clicking Github Pages link](assets/GH-link.png)
-  1.3. Click on the **github-pages** under the **Environments** section, located to the right of your repository file list.
-    1.3.1  Select the **View deployment** button beside your site's topmost build.
-2. Voila! Your online resume is now live.
+  1.3 Click on the **github-pages** under the **Environments** section, located to the right of your repository file list.  
+    1.3.1 Select the **View deployment** button beside your site's topmost build.
+2. Voila! Your resume is now hosted in a live Github Pages site.  
 ![My Online Resume](assets/img/404-southpark.jpg)
 
 ---
