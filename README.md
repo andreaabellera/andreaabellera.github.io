@@ -1,5 +1,5 @@
 # Hosting Your Resume on Github Pages
-Getting your resume online gives you a double-edged advantage. Not only does this allow you to exhibit your technical qualifications, but it also shows your documentation skills in action! This repository README will teach you how to host your resume online through Github Pages with a set of comprehensive instructions. In addition, this repository hosts a live resume as an example of a [site](https://andreaabellera.github.io/) that you can expect as an end result.
+Getting your resume online gives a double-edged advantage. It allows you to exhibit your technical qualifications and it also shows your documentation skills in action! This README will teach you how to host your resume online through a free site with Github Pages. In addition, this repository hosts a live resume as an example of a [site](https://andreaabellera.github.io/) that you can expect as an end result.
 
 ## Contents
 - [Purpose](#Purpose)
@@ -15,7 +15,7 @@ Getting your resume online gives you a double-edged advantage. Not only does thi
 - [FAQ](#FAQ)
 
 ## Purpose
-This README will teach you on instructions to host your resume online through Github Pages, which is a method that Andrew Etter suggests in his book, Modern Technical Writing. He notes, "build and host a website, not distribute PDFs." Furthermore, the following points display the purpose of hosting a resume online.
+This README will teach you how to host your resume online through Github Pages. Andrew Etter suggests in his book, Modern Technical Writing, that documentation must be built and hosted in a website, not distributed as PDFs. Furthermore, I compiled the following benefits for hosting your resume online points based on Etter's principles.
 
 ### Why host a resume in Github Pages?
 - Etter states that "even the best documentation, like software, eventually goes out of date." Integrating Git allows effective version control so that and eliminates the need of keeping multiple .pdf versions in a hard drive that take up space and is hectic to overwrite.
@@ -24,18 +24,18 @@ This README will teach you on instructions to host your resume online through Gi
 - Display your technical writing prowess!
 
 ## Prerequisites
-Before proceeding to the Instructions section to host a resume in Github pages, you are required to have a resume, to learn Markdown, to acquire or find a Markdown editor, and to own a Github account.
+Before proceeding to the [Instructions](#Instructions) section to host your resume, you are required to possess or prepare the following items:
 
-#### Preparing a Resume
+### A Resume
 Ensure that your resume details are up-to-date, accurate, and free of grammatical errors.
 
-#### Learning Markdown
+### Markdown Familiarity
 Complete a [Markdown tutorial](https://www.markdowntutorial.com/) to become familiar with Markdown syntax.
 
-#### Getting a Markdown Editor
+### A Markdown Editor
 Find or acquire a Markdown editor that both displays your written Markdown syntax and converted text in parallel to streamline your workflow. A good, free online editor that you can use is [StackEdit](https://stackedit.io).
 
-#### Owning a Github Account
+### A Github Account
 Create a free Github account [here](https://github.com/signup).
 
 ## Instructions
@@ -68,14 +68,14 @@ Hehe visit {your Github username}.github.io or follow the link provided in the G
 - [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll/) by Dean Attali
 
 ### Peer Editing Group
-- [Megan Galbraith](www.github.com/galbrame)
+- [Megan Galbraith](https://github.com/galbrame)
 - [Andrii Provozin](https://github.com/developik)
 - [Matthew Kwiatkowski](https://github.com/Speuce)
 - Ian Tobinpe
 
 ## FAQ
 ### Why is Markdown used and not HTML?
-Though both widely-used markup languages renders text for the web, Markdown is preferred for documentation due to its cleaner style and syntax. Markdown, unlike HTML, does not require opening and closing tags and eliminates the risk of neglecting or mispelling a tag which causes a page to render erroneously. Markdown is easier to learn and more readable, and allows the author to focus more on creating and modifying documentation content with minimal concern on page layout.
+Though both options are widely-used markup languages which can render text for the web, Markdown is preferred for documentation due to its cleaner style and syntax. Markdown, unlike HTML, does not require opening and closing tags and eliminates the risk of neglecting or mispelling a tag which causes a page to render erroneously. Markdown is easier to learn and more readable. Moreover, it allows the author to focus more on creating and modifying documentation content with minimal concern on page layout.
 
 ### Why is my resume not showing up?
 The following may be reasons why Github pages fails to show up or load correctly in your browser:
