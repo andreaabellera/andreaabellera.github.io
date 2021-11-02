@@ -50,6 +50,7 @@ Create a free Github account [here](https://github.com/signup).
 3. Name your repository with _your-username_.github.io  
 ![Naming repository](assets/name-repo.png)
 
+---
 ### Bringing your Site Live with Github Pages
 1. Click on **Settings** from your repository's menu options.  
 ![Repository Settings](assets/repo-settings.png)
@@ -58,11 +59,13 @@ Create a free Github account [here](https://github.com/signup).
 4. Select **root** as your source folder.  
 ![Github Pages site setup](assets/site-setup.png)
 
+---
 ### Adding a Site Template with Jekyll
 1. Click on **Choose a theme** under **Theme Chooser**.
 2. Select a design theme of your choice.  
 ![Selecting a theme](assets/theme.png)
 
+---
 ### Modifying Site Content with Markdown
 1. Click **Add file** on the menu above your repository's file list.
 2. From the dropdown, select **Create new file**.  
@@ -72,15 +75,16 @@ Create a free Github account [here](https://github.com/signup).
 4. Save your changes through the commit section at the bottom of the page. This adds index.md into your repository.  
 ![Commit file](assets/commit.png)
 
+---
 ### Viewing your Github Pages Site 
 1. There are three ways to your new Github Pages site:
-  1.1 Enter _your-username_.github.io into your browser's address bar.
-  1.2 Click on the Github Pages link provided in your repository's **Pages** setting.  
+  - Enter _your-username_.github.io into your browser's address bar.
+  - Click on the Github Pages link provided in your repository's **Pages** setting.  
   ![Clicking Github Pages link](assets/GH-link.png)
-  1.3 Click on the **github-pages** under the **Environments** section, located to the right of your repository file list.  
-    1.3.1 Select the **View deployment** button beside your site's topmost build.
+  - Click on the **github-pages** under the **Environments** section, located to the right of your repository file list.  
+    - 1.3.1 Select the **View deployment** button beside your site's topmost build.
 2. Voila! Your resume is now hosted in a live Github Pages site.  
-![My Online Resume](assets/img/404-southpark.jpg)
+![My Online Resume](assets/resume-andrea.gif)
 
 ---
 ## Resources
