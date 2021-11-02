@@ -109,12 +109,11 @@ Create a free Github account [here](https://github.com/signup).
 
 ---
 ## FAQ
-### Why is Markdown used and not HTML?
+### Why do we use Markdown but not HTML?
 Though both options are widely-used markup languages which can render text for the web, Markdown is preferred for documentation due to its cleaner style and syntax. Markdown, unlike HTML, does not require opening and closing tags and eliminates the risk of neglecting or mispelling a tag which causes a page to render erroneously. Markdown is easier to learn and more readable. Moreover, it allows the author to focus more on creating and modifying documentation content with minimal concern on page layout.
 
 ### Why is my resume not showing up?
 The following may be reasons why Github pages fails to show up or load correctly in your browser:
 - The site is being built from the wrong source. Ensure that your Jekyll and resume file are in the build folder that is set up in your repository's **Pages** setting.
 - The Jekyll homepage, index.md, is either named incorrectly or is an empty file.
-- The Jekyll site may be missing core files. In this case, it is suggested that you create a backup of your README and resume files, clear your repository, and re-install Jekyll.
 - Clear your browser cache if site changes are not being reflected properly.
