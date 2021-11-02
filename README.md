@@ -15,13 +15,13 @@ Getting your resume online gives a double-edged advantage. It allows you to exhi
 - [FAQ](#FAQ)
 
 ## Purpose
-This README will teach you how to host your resume online through Github Pages. Andrew Etter suggests in his book, Modern Technical Writing, that documentation must be built and hosted in a website, not distributed as PDFs. Furthermore, I compiled the following benefits for hosting your resume online points based on Etter's principles.
+This README will teach you how to host your resume online through Github Pages. Andrew Etter suggests in his book, Modern Technical Writing, that documentation must be built and hosted in a website, not distributed as PDFs. Furthermore, the following shows the benefits of hosting your resume online based on Etter's principles.
 
 ### Why host a resume in Github Pages?
-- Etter states that "even the best documentation, like software, eventually goes out of date." Integrating Git allows effective version control so that and eliminates the need of keeping multiple .pdf versions in a hard drive that take up space and is hectic to overwrite.
+- Etter states that "even the best documentation, like software, eventually goes out of date." Integrating Git allows effective version control so that and eliminates the need of keeping multiple .pdf versions in a hard drive that take up space.
 - You avail easy and convenient site updates facilitated by Github pages. Etter says that using static site generators "gives you the power to fix inaccuracies almost instantly and keep your content in sync."
-- Your site can be used as a quick reference for employers and they will not need to download a file to view your profile and qualifications. If you not have your resume in file with when the perfect opportunity comes by, this is easily remedied by sending your prospective employer or coworker your online resume link.
-- Display your technical writing prowess!
+- Your site can be used as a quick reference for employers and they will not need to download a file to view your qualifications. If you do not have your resume in file when the perfect opportunity comes by, this is easily remedied by sending your prospective employer or coworker your online resume link.
+- Avail yourself the chance to display your technical writing prowess!
 
 ## Prerequisites
 Before proceeding to the [Instructions](#Instructions) section to host your resume, you are required to possess or prepare the following items:
@@ -40,7 +40,11 @@ Create a free Github account [here](https://github.com/signup).
 
 ## Instructions
 ### Making a Repository in Github
-I made a repo
+1. Click the '+' button on the top-right menu.
+2. From the dropdown, select **New Repository**.
+![Selecting new repository](assets/new-repo.png)
+3. Name your repository in with _your-username_.github.io
+![Naming repository](assets/name-repo.png)
 
 ### Bringing your Site Live with Github Pages
 Woohoo
@@ -52,7 +56,10 @@ Whoa
 Hehe front matter
 
 ### Viewing your Github Pages Site 
-Hehe visit {your Github username}.github.io or follow the link provided in the Github pages settings.
+1. Enter _your-username_.github.io into your browser's address bar.
+2. Alternatively, click on the Github Pages link provided in your repository's **Pages** setting.
+![Clicking Github Pages link](assets/GH-link.png)
+![VOILA MON RESUME](assets/404-southpark.jpg)
 
 ## Resources
 - [Markdown tutorial](https://www.markdowntutorial.com/)
@@ -79,7 +86,7 @@ Though both options are widely-used markup languages which can render text for t
 
 ### Why is my resume not showing up?
 The following may be reasons why Github pages fails to show up or load correctly in your browser:
-- The site is being built from the wrong source. Ensure that your Jekyll and resume file are in the build folder that is set up in your repository's "Pages" setting.
+- The site is being built from the wrong source. Ensure that your Jekyll and resume file are in the build folder that is set up in your repository's **Pages** setting.
 - The Jekyll homepage, index.md, is either named incorrectly or is an empty file.
 - The Jekyll site may be missing core files. In this case, it is suggested that you create a backup of your README and resume files, clear your repository, and re-install Jekyll.
-- Clear the browser cache if site changes are not being reflected properly.
+- Clear your browser cache if site changes are not being reflected properly.
