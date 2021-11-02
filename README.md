@@ -1,6 +1,7 @@
 # Hosting Your Resume on Github Pages
 Getting your resume online gives a double-edged advantage. It allows you to exhibit your technical qualifications and it also shows your documentation skills in action! This README will teach you how to host your resume online through a free site with Github Pages. In addition, this repository hosts a live resume as an example of a [site](https://andreaabellera.github.io/) that you can expect as an end result.
 
+---
 ## Contents
 - [Purpose](#Purpose)
 - [Prerequisites](#Prerequisites)
@@ -14,6 +15,7 @@ Getting your resume online gives a double-edged advantage. It allows you to exhi
 - [Author and Acknowledgements](#Author-and-Acknowledgement)
 - [FAQ](#FAQ)
 
+---
 ## Purpose
 This README will teach you how to host your resume online through Github Pages. Andrew Etter suggests in his book, Modern Technical Writing, that documentation must be built and hosted in a website, not distributed as PDFs. Furthermore, the following shows the benefits of hosting your resume online based on Etter's principles.
 
@@ -23,6 +25,7 @@ This README will teach you how to host your resume online through Github Pages. 
 - Your site can be used as a quick reference for employers and they will not need to download a file to view your qualifications. If you do not have your resume in file when the perfect opportunity comes by, this is easily remedied by sending your prospective employer or coworker your online resume link.
 - Avail yourself the chance to display your technical writing prowess!
 
+---
 ## Prerequisites
 Before proceeding to the [Instructions](#Instructions) section to host your resume, you are required to possess or prepare the following items:
 
@@ -38,35 +41,55 @@ Find or acquire a Markdown editor that both displays your written Markdown synta
 ### A Github Account
 Create a free Github account [here](https://github.com/signup).
 
+---
 ## Instructions
 ### Making a Repository in Github
 1. Click the '+' button on the top-right menu.
 2. From the dropdown, select **New Repository**.  
 ![Selecting new repository](assets/new-repo.png)
-3. Name your repository in with _your-username_.github.io  
+3. Name your repository with _your-username_.github.io  
 ![Naming repository](assets/name-repo.png)
 
 ### Bringing your Site Live with Github Pages
-Woohoo
+1. Click on **Settings** from your repository's menu options.  
+![Repository Settings](assets/repo-settings.png)
+2. Head to the **Pages** section from the list of setting categories.
+3. Select **main** as your branch under **Source** to enable Github Pages to build a site from your repository main branch.
+4. Select **root** as your source folder.  
+![Github Pages site setup](assets/site-setup.png)
 
 ### Adding a Site Template with Jekyll
-Whoa
+1. Click on **Choose a theme** under **Theme Chooser**.
+2. Select a design theme of your choice.  
+![Selecting a theme](assets/theme.png)
 
 ### Modifying Site Content with Markdown
-Hehe front matter
+1. Click **Add file** on the menu above your repository's file list.
+2. From the dropdown, select **Create new file**.  
+![Create index.md](assets/new-file.png)
+3. Re-write your resume in Markdown syntax on the editor provided.  
+![Add front matter](assets/front-matter.png)
+4. Save your changes through the commit section at the bottom of the page. This adds index.md into your repository.  
+![Commit file](assets/commit.png)
 
 ### Viewing your Github Pages Site 
-1. Enter _your-username_.github.io into your browser's address bar.
-2. Alternatively, click on the Github Pages link provided in your repository's **Pages** setting.
-![Clicking Github Pages link](assets/GH-link.png)
-![VOILA MON RESUME](assets/img/404-southpark.jpg)
+1. There are three ways to your new Github Pages site:
+  1.1. Enter _your-username_.github.io into your browser's address bar.
+  1.2. Click on the Github Pages link provided in your repository's **Pages** setting.  
+  ![Clicking Github Pages link](assets/GH-link.png)
+  1.3. Click on the **github-pages** under the **Environments** section, located to the right of your repository file list.
+    1.3.1  Select the **View deployment** button beside your site's topmost build.
+2. Voila! Your online resume is now live.
+![My Online Resume](assets/img/404-southpark.jpg)
 
+---
 ## Resources
 - [Markdown tutorial](https://www.markdowntutorial.com/)
 - [Online Markdown Editor](https://stackedit.io)
 - [Modern Technical Writing: An Introduction to Software Documentation](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS) by Andrew Etter
 - [Jekyll Setup Documentation](https://jekyllrb.com/docs/)
 
+---
 ## Author and Acknowledgements
 ### Document Author
 - [Andrea Abellera](www.github.com/andreaabellera)
@@ -80,6 +103,7 @@ Hehe front matter
 - [Matthew Kwiatkowski](https://github.com/Speuce)
 - Ian Tobinpe
 
+---
 ## FAQ
 ### Why is Markdown used and not HTML?
 Though both options are widely-used markup languages which can render text for the web, Markdown is preferred for documentation due to its cleaner style and syntax. Markdown, unlike HTML, does not require opening and closing tags and eliminates the risk of neglecting or mispelling a tag which causes a page to render erroneously. Markdown is easier to learn and more readable. Moreover, it allows the author to focus more on creating and modifying documentation content with minimal concern on page layout.
