@@ -41,9 +41,9 @@ Create a free Github account [here](https://github.com/signup).
 ## Instructions
 ### Making a Repository in Github
 1. Click the '+' button on the top-right menu.
-2. From the dropdown, select **New Repository**.
+2. From the dropdown, select **New Repository**.  
 ![Selecting new repository](assets/new-repo.png)
-3. Name your repository in with _your-username_.github.io
+3. Name your repository in with _your-username_.github.io  
 ![Naming repository](assets/name-repo.png)
 
 ### Bringing your Site Live with Github Pages
@@ -59,7 +59,7 @@ Hehe front matter
 1. Enter _your-username_.github.io into your browser's address bar.
 2. Alternatively, click on the Github Pages link provided in your repository's **Pages** setting.
 ![Clicking Github Pages link](assets/GH-link.png)
-![VOILA MON RESUME](assets/404-southpark.jpg)
+![VOILA MON RESUME](assets/img/404-southpark.jpg)
 
 ## Resources
 - [Markdown tutorial](https://www.markdowntutorial.com/)
