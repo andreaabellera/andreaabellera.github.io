@@ -49,7 +49,7 @@ Create a free Github account [here](https://github.com/signup).
 ![Selecting new repository](assets/new-repo.png)
 3. Name your repository with _your-username_.github.io  
 ![Naming repository](assets/name-repo.png)
-> According to Etter, using Distributed Version Control Systems like Git enables you to work on your site offline. It also avails collaboration and encourages external contributions from peers.
+> According to Etter, using Distributed Version Control Systems like Git enables you to work on your site offline. It also avails collaboration. A comprehensive README or wiki will encourage external contributions from peers.
 
 ---
 ### Bringing your Site Live with Github Pages
@@ -114,7 +114,7 @@ Create a free Github account [here](https://github.com/signup).
 ---
 ## FAQ
 ### Why do we use Markdown but not HTML?
-Though both options are widely-used markup languages which can render text for the web, Markdown is preferred for documentation due to its cleaner style and syntax. Markdown, unlike HTML, does not require opening and closing tags and eliminates the risk of neglecting or mispelling a tag which causes a page to render erroneously. Markdown is easier to learn and more readable. Moreover, it allows the author to focus more on creating and modifying documentation content with minimal concern on page layout.
+Though both options are widely-used markup languages which can render text for the web, Markdown is preferred for documentation due to its cleaner style and syntax. Etter calls Markdown the lightweight markup language with the "cleanest syntax", and includes it among the best three of its kind. Unlike HTML, Markdown does not require opening and closing tags and eliminates the risk of neglecting or mispelling a tag which causes a page to render erroneously. Markdown is easier to learn and more readable. Moreover, it allows the author to focus more on creating and modifying documentation content with minimal concern on page layout.
 
 ### Why is my resume not showing up?
 The following may be reasons why Github pages fails to show up or load correctly in your browser:
