@@ -76,7 +76,7 @@ April - September 2020
 
 
 ##### COVID Business Development Database  
-**Data Analyst** (5 members)
+**Data Analyst** (5 members)  
 June - July 2020
 
 - Tailored 10+ recommendations to 15 post-secondary institutions as response to local COVID with **Access** to optimize class delivery, resource investments, and competitive fees

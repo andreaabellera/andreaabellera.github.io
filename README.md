@@ -49,6 +49,7 @@ Create a free Github account [here](https://github.com/signup).
 ![Selecting new repository](assets/new-repo.png)
 3. Name your repository with _your-username_.github.io  
 ![Naming repository](assets/name-repo.png)
+> According to Etter, using Distributed Version Control Systems like Git enables you to work on your site offline. It also avails collaboration and encourages external contributions from peers.
 
 ---
 ### Bringing your Site Live with Github Pages
@@ -58,12 +59,14 @@ Create a free Github account [here](https://github.com/signup).
 3. Select **main** as your branch under **Source** to enable Github Pages to build a site from your repository main branch.
 4. Select **root** as your source folder.  
 ![Github Pages site setup](assets/site-setup.png)
+> Static websites promote security, as Etter notes. In addition to being quick to load and portable, your Github site will be secure and immutable to outside hackers.
 
 ---
 ### Adding a Site Template with Jekyll
 1. Click on **Choose a theme** under **Theme Chooser**.
 2. Select a design theme of your choice.  
 ![Selecting a theme](assets/theme.png)
+> Etter strongly advocates for the use of themes in static sites. Moreover, he mentions that the ideal documentation theme looks approachable. I chose [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll/) for its clean layout and approachability.
 
 ---
 ### Modifying Site Content with Markdown
@@ -74,6 +77,7 @@ Create a free Github account [here](https://github.com/signup).
 ![Add front matter](assets/add-front-matter.png)
 4. Save your changes through the commit section at the bottom of the page. This adds a new index.md file into your repository.  
 ![Commit file](assets/commit.png)
+> "Customization is your chance to differentiate your content", says Etter. Modify the boilerplate, add icons, get a designer's input, and do anything you would to make your site stand out!
 
 ---
 ### Viewing your Github Pages Site 
