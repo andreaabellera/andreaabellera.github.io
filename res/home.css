@@ -1,0 +1,109 @@
+:root{
+  --bg: rgb(187, 204, 170);
+  /* --bg: linear-gradient(to right, #547570, #567B77, #55776F, #4C6E69); */
+}
+
+html, body{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: var(--bg);
+  display: grid;
+  justify-items: center;
+  align-items: center;
+}
+
+/*=================
+//  MAIN UI
+=================*/
+
+.bg-texture{
+  background-image: url("abellera.jpg");
+  opacity: 0.2;
+  position: absolute;
+  z-index: 1;
+  height: inherit;
+  width: inherit;
+  background-position: center;
+}
+
+.content{
+  position: absolute;
+  z-index: 3;
+  height: 80%;
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.profile-container{
+  background-image: url("andrea.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 30%;
+}
+
+.resume-container{
+  background-color: #CDCDCD;
+  height: 100%;
+  width: 65%;
+}
+
+
+
+@media screen and (max-aspect-ratio: 5/4) {
+  .content{
+    height: 90%;
+    width: 90%;
+  }
+}
+
+@media screen and (max-aspect-ratio: 2/3){
+  .content{
+    display: block;
+    height: 100%;
+    width: 100%;
+  }
+
+  .profile-container{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-position: bottom;
+    transform: translateY(-15em);
+  }
+  
+  .resume-container{
+    background-color: #CDCDCD;
+    height: 75%;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+  }
+}
+
+@media screen and (max-width: 590px){
+  .content{
+    display: block;
+    height: 100%;
+    width: 100%;
+  }
+
+  .profile-container{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-position: bottom;
+  }
+  
+  .resume-container{
+    background-color: #CDCDCD;
+    height: 75%;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+  }
+}
